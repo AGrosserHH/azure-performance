@@ -1,0 +1,5 @@
+Flask==1.1.2
+opencensus-ext-azure
+opencensus-ext-flask
+redis==3.5.3
+applicationinsights
